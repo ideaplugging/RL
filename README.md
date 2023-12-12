@@ -33,6 +33,7 @@
 <img src="https://github.com/ideaplugging/RL/assets/119948425/5c278436-2257-4844-8986-374255c60c45" width="500">
 <img src="https://github.com/ideaplugging/RL/assets/119948425/895f9cf7-9452-4435-af24-e1412d272d5f" width="500">
 <img src="https://github.com/ideaplugging/RL/assets/119948425/8013dd33-f3b0-4cbe-8110-4add8069e994" width="500">
+<img src="https://github.com/ideaplugging/RL/assets/119948425/68483f42-2825-426a-aab9-591ab3c35a70" width="500">
 
 # 디렉토리
 - main.py<br>
@@ -40,6 +41,7 @@
 - Method <br>
   - DQN.py<br>
 - utils.py<br>
+
 
 
 
