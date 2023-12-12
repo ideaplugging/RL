@@ -9,15 +9,19 @@
 - torch 2.1.1
 
 # 사용한 파라미터 정보
-- learning_rate = 0.0005
-- gamma = 0.99
-- epsilon = 1.0
-- epsilon_decay = 0.995
-- batch_size = 128
-- replay_size = 100000
-- num_episodes = 3000
-- target_update_interval = 5
-- hidden_sizes = [16, 16] # hidden_sizes는 리스트로 입력
+| Exp 1Parameter          | Value      |
+|-------------------------|------------|
+| learning_rate           | 0.0005     |
+| gamma                   | 0.99       |
+| epsilon                 | 1.0        |
+| epsilon_decay           | 0.995      |
+| batch_size              | 128        |
+| replay_size             | 100000     |
+| num_episodes            | 3000       |
+| target_update_interval  | 5          |
+| hidden_sizes            | [16, 16]   |
+
+
 
 # 실행방법
 - 파라미터 변경 시, main.py 파일 내에서 변경 필요하고, 실행은 main.py 파일 직접 실행
