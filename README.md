@@ -27,12 +27,14 @@
 <img src="https://github.com/ideaplugging/RL/assets/119948425/b1721c50-f622-453e-88c2-fe9b8bb47dc7" width="500">
 <img src="https://github.com/ideaplugging/RL/assets/119948425/5c278436-2257-4844-8986-374255c60c45" width="500">
 <img src="https://github.com/ideaplugging/RL/assets/119948425/895f9cf7-9452-4435-af24-e1412d272d5f" width="500">
-  
+<img src="https://github.com/ideaplugging/RL/assets/119948425/78ac13bb-1dba-47d0-adaf-bff856eeae38" width="500">
+
 # 디렉토리
 - main.py<br>
 - buffer.py ## Replybuffer<br>
 - Method <br>
   - DQN.py<br>
 - utils.py<br>
+
 
 
