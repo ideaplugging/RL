@@ -9,17 +9,18 @@
 - torch 2.1.1
 
 # 사용한 파라미터 정보
-| Exp 1Parameter          | Value      |
-|-------------------------|------------|
-| learning_rate           | 0.0005     |
-| gamma                   | 0.99       |
-| epsilon                 | 1.0        |
-| epsilon_decay           | 0.995      |
-| batch_size              | 128        |
-| replay_size             | 100000     |
-| num_episodes            | 3000       |
-| target_update_interval  | 5          |
-| hidden_sizes            | [16, 16]   |
+| Parameter               | Experiment 1 | Experiment 2 | Experiment 3 | Experiment 4 | Experiment 5 |
+|-------------------------|--------------|--------------|--------------|--------------|--------------|
+| learning_rate           | 0.0005       | 0.0075       | 0.0001       | 0.00075      | 0.0005       |
+| gamma                   | 0.99         | 0.99         | 0.99         | 0.99         | 0.99         |
+| epsilon                 | 1.0          | 1.0          | 1.0          | 1.0          | 1.0          |
+| epsilon_decay           | 0.995        | 0.995        | 0.995        | 0.995        | 0.995        |
+| batch_size              | 128          | 256          | 256          | 256          | 256          |
+| replay_size             | 100000       | 100000       | 100000       | 100000       | 100000       |
+| num_episodes            | 3000         | 3000         | 3000         | 3000         | 3000         |
+| target_update_interval  | 5            | 10           | 10           | 10           | 10           |
+| hidden_sizes            | [16, 16]     | [64, 64]     | [128, 64]    | [16, 16]     | [128, 64]    |
+
 
 
 
