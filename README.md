@@ -24,8 +24,8 @@
 - python main.py
 
 # 디렉토리
-main.py
-buffer.py ## Replybuffer
-Method
-  ᄂ DQN.py
-utils.py
+  main.py
+  buffer.py ## Replybuffer
+  Method
+    ᄂ DQN.py
+  utils.py
