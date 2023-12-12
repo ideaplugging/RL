@@ -26,7 +26,7 @@
 
 # 실행방법
 - 파라미터 변경 시, main.py 파일 내에서 변경 필요하고, 실행은 main.py 파일 직접 실행
-'''python main.py
+'''python main.py'''
 
 # 실험결과
 <img src="https://github.com/ideaplugging/RL/assets/119948425/b1721c50-f622-453e-88c2-fe9b8bb47dc7" width="500">
