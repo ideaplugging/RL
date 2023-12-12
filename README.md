@@ -22,13 +22,7 @@
 # 실행방법
 - 파라미터 변경 시, main.py 파일 내에서 변경 필요하고, 실행은 main.py 파일 직접 실행
 - python main.py
-
-# 실험결과
-<img src="https://github.com/ideaplugging/RL/assets/119948425/c2b55120-11a4-4c7a-b8b8-577e7d0fd862" 
-  width="500" height="300">
-<img src="https://github.com/ideaplugging/RL/assets/119948425/3efc69e7-4a6f-4a1d-8c1d-47d7e1bf5308" 
-width="500" height="300">
-
+  
 # 디렉토리
 - main.py<br>
 
