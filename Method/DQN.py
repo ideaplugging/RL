@@ -6,7 +6,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-from RL.RL.utils import save_model, save_rewards_to_tsv
+from ..utils import save_model, save_rewards_to_tsv
 
 class QNetwork(nn.Module):
     def __init__(self, n_inputs, n_actions, hidden_sizes, dropout_rate=0.2, seed=0):
