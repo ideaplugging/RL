@@ -27,5 +27,5 @@
 main.py<br>
 buffer.py ## Replybuffer<br>
 Method<br>
-  ᄂ DQN.py<br>
+<\t>ᄂ DQN.py<br>
 utils.py
