@@ -1,3 +1,15 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .indented {
+            margin-left: 30px; /* 좌측으로 30픽셀 들여쓰기 */
+        }
+    </style>
+</head>
+<body>
+
 # Lunar Lander v2
 본 프로젝트는 gymnasium에서 제공하는 Lunar Lander v2 문제를 DQN 방법으로 해결하는 것을 목표로 한다.
 
@@ -27,9 +39,12 @@
 ![DQN](https://github.com/ideaplugging/RL/assets/119948425/c2b55120-11a4-4c7a-b8b8-577e7d0fd862)
 
 # 디렉토리
-main.py<br>
-buffer.py ## Replybuffer<br>
-Method<br>
-    ᄂ DQN.py<br>
-utils.py
+<p>main.py</p>
+    <p>buffer.py ## Replybuffer</p>
+    <div class="indented">
+        <p>DQN.py</p>
+    </div>
+    <p>utils.py</p>
 
+</body>
+</html>
