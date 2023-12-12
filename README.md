@@ -25,9 +25,10 @@
 
 # 실험결과
 ![DQN](https://github.com/ideaplugging/RL/assets/119948425/c2b55120-11a4-4c7a-b8b8-577e7d0fd862)
-
+![Figure_1](https://github.com/ideaplugging/RL/assets/119948425/3efc69e7-4a6f-4a1d-8c1d-47d7e1bf5308)
 # 디렉토리
 - main.py<br>
+
 - buffer.py ## Replybuffer<br>
 - Method <br>
   - DQN.py<br>
